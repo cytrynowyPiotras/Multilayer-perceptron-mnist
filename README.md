@@ -3,7 +3,7 @@
 Python algorithm uses backward propagation and gradient decent.
 
 
-We download [Mnist dataset](https://en.wikipedia.org/wiki/MNIST_database) as 8x8 matrix, which gives as 64 lenght vector. To get best parameters we split dataset on train, valid and test sets.
+We download [the Mnist dataset](https://en.wikipedia.org/wiki/MNIST_database) as an 8x8 matrix, which gives a 64-length vector. To get the best parameters, we split the dataset into train, valid, and test sets.
 
 
 Activation function: `f(s) = 1/1+e^(-s)`
